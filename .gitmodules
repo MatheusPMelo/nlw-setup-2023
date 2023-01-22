@@ -1,0 +1,3 @@
+[submodule "mobile-app"]
+	path = mobile-app
+	url = git@github.com:MatheusPMelo/nlw-2023.git
